@@ -8,7 +8,7 @@ Below are the instructions to view kharach properly:-
 3. Next run XAMPP and click start on apache and mysql.
 4. Now goto your browser and paste "localhost/kharach" in your url_bar and press enter.
 5. you should see a login page
-6. NO log in with the information below:
+6. Now log in with the information below:
 	username: nafis
 	password: nafis12345
 ps: sign up has a few issues, it was not resolved in time of this submission. thus, it is depricated. Advise not to use it.
